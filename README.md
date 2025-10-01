@@ -1,7 +1,5 @@
-# customer-churn-analysis-powerbi
-My first Power BI project: Customer Churn Analysis.  This dashboard explores churn behavior, identifies high-risk customer segments,  and provides actionable insights for retention strategies.
 # Customer Churn Analysis (Power BI)
-
+My first Power BI project: Customer Churn Analysis.  This dashboard explores churn behavior, identifies high-risk customer segments,  and provides actionable insights for retention strategies.
 ## 📖 Overview
 This is my first Power BI project, focused on **Customer Churn Analysis**.  
 The goal is to analyze customer data and identify key factors that contribute to churn, helping businesses improve customer retention.
